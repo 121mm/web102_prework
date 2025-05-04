@@ -97,9 +97,3 @@ searchInput.addEventListener("input", e => {
     )
   );
 });
-
-// use destructuring and the spread operator to grab the first and second games
-
-// create a new element to hold the name of the top pledge game, then append it to the correct element
-
-// do the same for the runner up item

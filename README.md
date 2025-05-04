@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building this app, I think the hardest part was customizing it. CSS can be confusing it at times, and I struggled with the little things. For example, it was hard aligning items since there were a ton of way/methods you could do it. I had to refresh my CSS skills a bit, and afterwards I was able to customize it correctly.
 
 ## License
 

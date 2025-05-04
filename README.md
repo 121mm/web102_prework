@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster*
+[# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Mohamed Mudawi**
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/ZuIGWee' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/a/ZuIGWee.gif](https://imgur.com/a/ZuIGWee.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -50,4 +50,4 @@ While building this app, I think the hardest part was customizing it. CSS can be
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.
+    limitations under the License.](https://imgur.com/a/ZuIGWee)
